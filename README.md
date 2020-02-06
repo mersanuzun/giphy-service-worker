@@ -1,6 +1,6 @@
 ## giphy-service-worker
 
-Used service worker to cache requests. So that it can work offline.
+Use service worker to cache requests. So that it can work offline.
 
 * Installation
 ```bash
